@@ -1,0 +1,4 @@
+#!/bin/bash
+LOG=/Users/amaq/Desktop/Shamel_open_error.log
+echo "--- $(date) open via helper ---" >> "$LOG"
+open /Users/amaq/Desktop/Shamel_Launcher.command 2>>"$LOG" || osascript -e 'display dialog "تعذر التشغيل. جرّب دبل كليك على Shamel_Launcher.command على سطح المكتب"'

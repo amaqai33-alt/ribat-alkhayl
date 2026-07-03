@@ -1,0 +1,3 @@
+horse_id,name,breed,gender,birth_date,color,country,owner_id,notes
+H-001,Al Reeh,Arabian,male,2021-03-10,bay,SA,O-001,
+H-002,Noor,Arabian,female,2020-11-02,grey,SA,O-002,

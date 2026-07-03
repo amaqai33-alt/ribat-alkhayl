@@ -1,0 +1,90 @@
+{
+  "meta": {
+    "title": "استخراج يدوي من صفحات كتالوج — مطابقة أقسام document_sections",
+    "created": "2026-04-21",
+    "rules": "تجاهل Lot وBox واسم المالك؛ الهوية بالأب+الأم ووصف المهر/المهرة.",
+    "note": "ملء document_sections على السحابة يتم تلقائياً عند رفع PDF ومعالجته عبر /api/files/process. هذا الملف مرجع/دمج يدوي أو لاستيراد لاحق."
+  },
+  "pages": [
+    {
+      "page_index": 1,
+      "document_sections": {
+        "pedigree_tree": {
+          "subject_horse": "مهرة شقراء (السعودية)",
+          "date_of_birth": "2025-01-19",
+          "sire": "Maypole (GB)",
+          "dam": "Wafiyat Alwood (KSA) (2013)",
+          "sire_side": "Mayson (GB) — Invincible Spirit (IRE) × Mayleaf (GB) | Constitute (USA) — Gone West (USA) × Appointed One (USA)",
+          "dam_side": "Fire Wall (ARG) — Incurable Optimist (USA) × Fat Timer (ARG) | Shams Alsulaf (KSA) — K J's Appeal (USA) × Night Empress (GB)",
+          "extra": "ثلاثة أجيال كما في جدول النسب بالصفحة."
+        },
+        "dam_line_narrative": "ذكر ابنة Maypole (GB) المولودة 2015: فازت 10 مرات في بريطانيا والسعودية بما فيها كأس مهرجان التراث والثقافة، مع مراكز متقدمة في كؤوس سعودية كبرى.\n\nالأم الأولى Wafiyat Alwood (KSA): فازت 5 مرات بما فيها كأس خادم الحرمين الشريفين للإنتاج المحلي في أعمار 3 و4 و6؛ إجمالي مكاسب حوالي 115,866 جنيه إسترليني؛ لها مهر 2023 من Mayson (GB).\n\nالأم الثانية Shams Alsulaf (KSA): سجل سباقات في السعودية؛ من نسلها Wafiyat Alwood وHamama (فائزتان ومكاسب حوالي 41,357) وSadaqa (فائزة ومكاسب حوالي 12,256).\n\nالأم الثالثة Night Empress (GB): فائزتان و12 مركزاً؛ أم لثلاثة أفراس سبقت منها Shams Alsulaf.",
+        "sale_lot": null
+      }
+    },
+    {
+      "page_index": 2,
+      "document_sections": {
+        "pedigree_tree": {
+          "subject_horse": "LINEBREAKER (USA)",
+          "date_of_birth": "2025-01-23",
+          "sire": "Spun To Run (USA)",
+          "dam": "Late Lover (USA) (2013)",
+          "sire_side": "Hard Spun (USA) — Danzig (USA) × Turkish Tryst (USA) | Yawkey Way (USA) — Grand Slam (USA) × Is Kylie Good (USA)",
+          "dam_side": "Midnight Lute (USA) — Real Quiet (USA) × Candytuft (USA) | Summer Romance (USA) — Deputy Minister (CAN) × Catalina Court (USA)",
+          "extra": "Bay Colt — لاين بريكر (أمريكا)."
+        },
+        "dam_line_narrative": "الأب Spun To Run (2016): فائز بـ Breeders' Cup Dirt Mile (G1) وSmarty Jones (G3) ومراكز في سباقات G1/G2 أخرى.\n\nالأم Late Lover: فائزتان في أمريكا في عمر 3؛ مكاسب 16,841$؛ لها 6 أفراس، 5 سبقت، 3 فائزات — منها Quick Retribution (2021) خمسة ألقاب ومكاسب 92,588$؛ Cool Breeze (2022) فائزتان 2025 ومكاسب 41,276$؛ Late Date (2019)؛ Lethal Jargon (2023)؛ مهر 2024 من Botswana Taps لم يُسمَّ بعد.",
+        "sale_lot": null
+      }
+    },
+    {
+      "page_index": 3,
+      "document_sections": {
+        "pedigree_tree": {
+          "subject_horse": "مهر أشقر (السعودية)",
+          "date_of_birth": "2023-01-23",
+          "sire": "Requinto (IRE)",
+          "dam": "Yamoona (KSA) (2016)",
+          "sire_side": "Dansili (GB) — Danehill (USA) × Hasili (IRE) | Damson (IRE) — Entrepreneur (GB) × Tadkiyra (IRE)",
+          "dam_side": "Kantharos (USA) — Lion Heart (USA) × Contessa Halo (USA) | Our Tune (USA) — Concorde's Tune (USA) × Uppa Hughie (USA)",
+          "extra": "Bay Colt (KSA)."
+        },
+        "dam_line_narrative": "Requinto (2009): أربعة أشواط بما فيها Flying Childers (Gr.2) وMolecomb (Gr.3) وTipperary (L)؛ أب لعدة فائزين منهم Great Scott وOnly Mine وغيرهما.\n\nYamoona: سباقان في السعودية في عمر سنتين؛ أم لثلاثة أفراس، اثنان سبقا؛ مهر 2023 Ramero (KSA) من Requinto سبق مرتين في السعودية 2025 في عمر سنتين.\n\nOur Tune (USA): ثمانية أشواط في أمريكا في أعمار 3–4؛ مكاسب 142,567$؛ فوز Maryland Million Oaks (L)؛ أم لتسعة أفراس، ثمانية سبقت وأربعة فائزون — Lasso from El Paso، Up Giant، Pony for Erik، Canton، In Tune، Cape Quay وغيرها مع مكاسب مذكورة في النص.",
+        "sale_lot": null
+      }
+    },
+    {
+      "page_index": 4,
+      "document_sections": {
+        "pedigree_tree": {
+          "subject_horse": "مهر أشقر (السعودية)",
+          "date_of_birth": "2025-01-25",
+          "sire": "Garswood (GB)",
+          "dam": "Adele (GER) (2012)",
+          "sire_side": "Dutch Art (GB) — Medicean (GB) × Halland Park Lass (IRE) | Penchant (GB) — Kyllachy (GB) × Irresistible (GB)",
+          "dam_side": "Intikhab (USA) — Red Ransom (USA) × Crafty Example (USA) | Adalawa (IRE) — Barathea (IRE) × Adalya (IRE)",
+          "extra": "Chestnut Colt (KSA)."
+        },
+        "dam_line_narrative": "خط Garswood (2010): إشارات لمراكز ومجموعات في فرنسا 2014 وسباقات G1 وغيرها.\n\nAdele (ألمانيا): سباقات في عمر 3؛ مكاسب 26,049 جنيه؛ مراكز ثلاثة؛ من نسلها مهر 2021 من Fortified فاز في السعودية ومكاسب 85,528؛ Gallaba (Sea Claire)؛ مهر 2023 من Night of Thunder؛ مهر 2024 من Al-Tarbawi.\n\nAdalawa (أيرلندا): لم تسبق؛ تسعة أفراس كلها فائزة؛ منها Alina Express أربعة أشواط في UK/ألمانيا ومكاسب 27,965.\n\nAdalya (أيرلندا): ثلاثة سباقات في عمر 3 ومراكز؛ أخت Alyssa؛ اثنا عشر فرساً، عشرة سبقوا وسبعة فائزون منهم Angalia ثلاثة أشواط.",
+        "sale_lot": null
+      }
+    },
+    {
+      "page_index": 5,
+      "document_sections": {
+        "pedigree_tree": {
+          "subject_horse": "BASHAYER (USA) / بشاير (أمريكا)",
+          "date_of_birth": "2025-01-26",
+          "sire": "Vino Rosso (USA)",
+          "dam": "Crayon (USA) (2012)",
+          "sire_side": "Curlin (USA) — Smart Strike (CAN) × Sherriff's Deputy (USA) | Mythical Bride (USA) — Street Cry (IRE) × Flaming Heart (USA)",
+          "dam_side": "Hard Spun (USA) — Danzig (USA) × Turkish Tryst (USA) | Uriel (USA) — Unbridled (USA) × Episode (USA)",
+          "extra": "Bay Filly."
+        },
+        "dam_line_narrative": "Vino Rosso (2015): ستة أشواط بما فيها Breeders' Cup Classic (Gr1) وGold Cup at Santa Anita (Gr1) ومراكز في Jim Dandy وTravers وغيرها.\n\nCrayon: ستة مراكز في أعمار 4–6 في أمريكا؛ مكاسب 34,789 جنيه؛ من نسلها Shazin (2021 Mohaymen) ثلاثة أشواط ومكاسب 15,099؛ Grand Crossing (2022 Street Boss) مركز 2025 ومكاسب 11,292؛ مهر 2024 من Idol.\n\nUriel: لم تسبق؛ تسعة أفراس، خمسة فائزون؛ منهم Battle Station (Warrior's Reward) تسعة أشواط ومكاسب 562,870 وفوز Lucky Coin Stakes وقوائم أخرى.",
+        "sale_lot": null
+      }
+    }
+  ]
+}

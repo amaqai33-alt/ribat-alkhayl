@@ -1,0 +1,18 @@
+{
+  "horses": [
+    {
+      "horse_id": "H-001",
+      "name": "Al Reeh",
+      "profile": {
+        "breed": "Arabian",
+        "gender": "male",
+        "birth_date": "2021-03-10",
+        "color": "bay"
+      },
+      "owner_id": "O-001",
+      "evaluations": [
+        "E-001"
+      ]
+    }
+  ]
+}
